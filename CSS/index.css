@@ -1,0 +1,33 @@
+
+.img_404 img{
+margin-left: -25%;
+width: 280%;
+height: auto;
+}
+div{
+    margin-left: 70%;
+    display: inline-block;
+    
+}
+body{
+    width: 1000px;
+    height: auto;
+}
+
+  @font-face{
+
+font-family: 'ben krush';
+src: url('../10122.ttf')  format('truetype');
+
+}
+        
+  p{
+    color: #fb503b;
+    font-size:120px; 
+    font-family: 'ben krush';
+}
+
+.cat{
+    position: fixed;
+    top:400px
+}
